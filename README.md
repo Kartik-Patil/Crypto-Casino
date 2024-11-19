@@ -69,7 +69,7 @@ After that you have to click on the red button to connect the website to your wa
 If you want to install the casino to modify it is very easy, you just have to clone this repository, you can do it using the IDE or using the console with the command:
 
 ```shell
-git clone https://github.com/BraisCabo/CriptoCasino
+git clone https://github.com/Kartik-Patil/Crypto-Casino.git
 ```
 
 After that, you just have to open in the console the address where you just cloned the project and execute the command:
